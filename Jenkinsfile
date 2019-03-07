@@ -5,6 +5,7 @@
             steps {
                 sh 'mvn --version'
 		sh 'ls -al'
+		sh 'java JavaPro'
             }
         }
     }
